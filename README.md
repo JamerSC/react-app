@@ -74,3 +74,5 @@ Settings -> Snippet -> Create new snippet by clicking new global -> create name 
 "description": "React styled component"
 }
 }
+
+command for running react app: `npm start`
